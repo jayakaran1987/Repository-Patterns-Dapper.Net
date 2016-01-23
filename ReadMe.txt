@@ -1,4 +1,4 @@
-# Repository Patterns using Dapper.Net
+#Repository Patterns using Dapper.Net
 
 
 This is Dapper.net used small application for Pricing query form in C# MVC.NET.     
